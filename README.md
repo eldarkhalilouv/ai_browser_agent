@@ -9,7 +9,7 @@
 - **Stealth:** Использует реальный профиль Chrome для обхода анти-бот систем (Яндекс/Cloudflare).
 
 ## 🛠 Технологии
-- **Language:** Python 3.11 (выбран для скорости прототипирования AI-фич).
+- **Language:** Python 3.12.3 (выбран для скорости прототипирования AI-фич).
 - **Core:** Playwright (Async), OpenAI SDK.
 - **Models:** gpt-5-mini.
 
